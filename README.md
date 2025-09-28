@@ -131,7 +131,13 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 
 ### New password is sent by email which set up
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/99f90f42-3c30-46af-9f58-7faaf840e363" />
+
 ### Complete sign in with new password
+
+<img width="1890" height="1057" alt="image" src="https://github.com/user-attachments/assets/9ae42607-a834-4982-af20-a633b6983a42" />
+
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/0909d523-66de-45ca-8510-11f498670267" />
 
 ### Sign in with google account
 
@@ -152,4 +158,10 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 ### Complete sign in
 
 <img width="1893" height="1050" alt="image" src="https://github.com/user-attachments/assets/09b689e8-323e-4f3d-9e3c-35aa682e1d9f" />
+
+### Logout
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/24af53ca-7270-4ae3-a4e8-46d48df41474" />
+
+
 
