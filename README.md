@@ -109,28 +109,38 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 
 ## TEST FUCNTION
 ### register in website
-![register in website](./public/image.png)
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/4f4ec168-d189-4d45-b790-60db93446eff" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1092282-c4e0-4bb8-833b-68c8b9fb1066" />
+
 ### After register, information of user store in mongodb
-![After register, information of user store in mongodb](./public/image1.png)
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/598282f9-0f34-4684-a08b-f227a88d9793" />
+
 ### Sign in with user account
-![Sign in with user account](./public/image2.png)
+
+<img width="1843" height="1035" alt="image" src="https://github.com/user-attachments/assets/7ad94a86-db03-4c1b-b9e8-efc2b6dd97e0" />
+
 ### Complete Sign in
-![Complete Sign in](./public/image3.png)
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/63dcbdd9-d47a-4b64-951a-d79e74040d78" />
+
 ### Forgot password
-![Forgot password](./public/image4.png)
+
+
+
 ### New password is sent by email which set up
-![New password is sent by email which set up](./public/image5.png)
+
 ### Complete sign in with new password
-![Complete sign in with new password](./public/image6.png)
+
 ### Sign in with google account
-![Sign in with google account](./public/image7.png)
+
 ### Choose account google
-![Choose account google](./public/image8.png)
+
 ### Complete sign in
-![Complete sign in](./public/image9.png)
+
 ### Change password
-![Change password](./public/image10.png)
+
 ### Print alert password changed successfully
-![Print alert password changed successfully](./public/image11.png)
+
 ### Complete sign in
-![Complete sign in](./public/image12.png)
