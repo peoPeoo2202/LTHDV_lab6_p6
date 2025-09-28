@@ -1,4 +1,6 @@
-<img width="1910" height="1067" alt="image" src="https://github.com/user-attachments/assets/b27b1df5-56c4-4503-8a32-6039cfac2e73" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfafd81c-e052-41de-8f1f-e87e67661c4f" /># Node.js Authentication System
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfafd81c-e052-41de-8f1f-e87e67661c4f" />
+# Node.js Authentication System
 
 This project contains a complete authentication system using Node.js, Express, and MongoDB. It includes features like sign up, sign in, sign out, password reset, and social authentication (Google). The project is structured to be scalable with separate components for models, controllers, and routes.
 
