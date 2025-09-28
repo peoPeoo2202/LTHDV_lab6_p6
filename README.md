@@ -1,4 +1,4 @@
-# Node.js Authentication System
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfafd81c-e052-41de-8f1f-e87e67661c4f" /># Node.js Authentication System
 
 This project contains a complete authentication system using Node.js, Express, and MongoDB. It includes features like sign up, sign in, sign out, password reset, and social authentication (Google). The project is structured to be scalable with separate components for models, controllers, and routes.
 
@@ -127,7 +127,7 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 
 ### Forgot password
 
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65f61a70-f0bb-45ea-b568-d0643108129a" />
 
 ### New password is sent by email which set up
 
@@ -141,6 +141,15 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 
 ### Change password
 
+<img width="1911" height="1065" alt="image" src="https://github.com/user-attachments/assets/37acb7c8-456b-4d5b-a67c-6de320f5e7d3" />
+
+<img width="1918" height="1068" alt="image" src="https://github.com/user-attachments/assets/c27807a7-941c-426d-a7e8-c36e4d00df6c" />
+
 ### Print alert password changed successfully
 
+<img width="1905" height="1064" alt="image" src="https://github.com/user-attachments/assets/6cfa8255-a107-4a59-b6fb-38c31a42e869" />
+
 ### Complete sign in
+
+<img width="1893" height="1050" alt="image" src="https://github.com/user-attachments/assets/09b689e8-323e-4f3d-9e3c-35aa682e1d9f" />
+
