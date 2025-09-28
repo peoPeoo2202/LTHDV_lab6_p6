@@ -1,3 +1,4 @@
+
 # Node.js Authentication System
 
 This project contains a complete authentication system using Node.js, Express, and MongoDB. It includes features like sign up, sign in, sign out, password reset, and social authentication (Google). The project is structured to be scalable with separate components for models, controllers, and routes.
@@ -106,3 +107,65 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 ## Follow me on
 
 - [LinkedIn](https://www.linkedin.com/in/ravikant-singh-327a98241)
+
+## TEST FUCNTION
+### register in website
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/4f4ec168-d189-4d45-b790-60db93446eff" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1092282-c4e0-4bb8-833b-68c8b9fb1066" />
+
+### After register, information of user store in mongodb
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/598282f9-0f34-4684-a08b-f227a88d9793" />
+
+### Sign in with user account
+
+<img width="1843" height="1035" alt="image" src="https://github.com/user-attachments/assets/7ad94a86-db03-4c1b-b9e8-efc2b6dd97e0" />
+
+### Complete Sign in
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/63dcbdd9-d47a-4b64-951a-d79e74040d78" />
+
+### Forgot password
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65f61a70-f0bb-45ea-b568-d0643108129a" />
+
+### New password is sent by email which set up
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/99f90f42-3c30-46af-9f58-7faaf840e363" />
+
+### Complete sign in with new password
+
+<img width="1890" height="1057" alt="image" src="https://github.com/user-attachments/assets/9ae42607-a834-4982-af20-a633b6983a42" />
+
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/0909d523-66de-45ca-8510-11f498670267" />
+
+### Sign in with google account
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be9b8cd8-7a4c-4432-90ab-f73a75a4cc1f" />
+
+### Choose account google
+
+<img width="1896" height="1072" alt="image" src="https://github.com/user-attachments/assets/df43d680-daa9-4cd2-930d-1c1183ec2d35" />
+
+### Complete sign in
+
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/4fb17ec2-3298-46b0-b4d8-7654eed60143" />
+
+### Change password
+
+<img width="1911" height="1065" alt="image" src="https://github.com/user-attachments/assets/37acb7c8-456b-4d5b-a67c-6de320f5e7d3" />
+
+<img width="1918" height="1068" alt="image" src="https://github.com/user-attachments/assets/c27807a7-941c-426d-a7e8-c36e4d00df6c" />
+
+### Print alert password changed successfully
+
+<img width="1905" height="1064" alt="image" src="https://github.com/user-attachments/assets/6cfa8255-a107-4a59-b6fb-38c31a42e869" />
+
+### Complete sign in
+
+<img width="1893" height="1050" alt="image" src="https://github.com/user-attachments/assets/09b689e8-323e-4f3d-9e3c-35aa682e1d9f" />
+
+### Logout
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/24af53ca-7270-4ae3-a4e8-46d48df41474" />
