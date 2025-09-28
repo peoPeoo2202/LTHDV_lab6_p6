@@ -113,6 +113,13 @@ export  class UserPostController {
     //forgot password
     forgotPassword = async (req, res) => {
         const { email } = req.body;
+        //Recaptcha validation
+        const recaptcha = req.body['g-recaptcha-response'];
+
+        if (recaptcha === undefined || recaptcha === '' || recaptcha === null) {
+            return res.status(404).render("forgot-password",{message:"Please select captcha"});
+        }
+        
         try {
             const existingUser = await User.findOne({ email: email });
             if (!existingUser) 
